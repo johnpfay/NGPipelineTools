@@ -1,0 +1,1 @@
+%localappdata%\ESRI\conda\envs\ng_tools_agis\scripts\jupyter-notebook.exe --notebook-dir=%cd%
