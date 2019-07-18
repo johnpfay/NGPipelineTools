@@ -1,0 +1,8 @@
+scripts/.ipynb_checkpoints/*
+*.lock
+
+#ArcGIS Pro files
+ImportLog/*
+Index/*
+NGPipelineExplorer.gdb/*
+scratch/*
