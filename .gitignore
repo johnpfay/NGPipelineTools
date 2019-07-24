@@ -5,4 +5,5 @@ scripts/.ipynb_checkpoints/*
 ImportLog/*
 Index/*
 NGPipelineExplorer.gdb/*
+data/processed/NGData.gdb/*
 scratch/*
